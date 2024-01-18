@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lorisdm
-- 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analysis
+- ⚽ My dream is to become a Football Data Analysis for ASRoma
+- 🌱 I’m currently learning Python
