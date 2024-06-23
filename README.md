@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lorisdm
 - 👀 I’m interested in Data Analysis
 - ⚽ My dream is to become a Football Data Analysis for ASRoma
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C
